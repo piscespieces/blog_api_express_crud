@@ -6,5 +6,5 @@
 - `npm install`
 - Set up your MongoDB cluster
 - Create a `config.env` file in the config directory
-- Create a `MONGO_URI` variable to store your MongoDB Uri to access the database
+- Create a `MONGO_URI` variable in the `config.env` to store your MongoDB Uri to access the database. Ex: `MONGO_URI=mongodb+srv://test:123456@blogapi-jmyjv.mongodb.net/blogApi?retryWrites=true&w=majority`
 - You should be good to go
